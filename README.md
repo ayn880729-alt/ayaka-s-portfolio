@@ -1,2 +1,2 @@
-# ayaka-s-portfolio
+# ayakas-portfolio
 Ayaka's first portfolio
